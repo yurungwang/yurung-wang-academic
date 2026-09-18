@@ -440,7 +440,7 @@ function Home() {
             <div className="hero__visual">
               <div className="hero__image-frame">
                 <img
-                  src="/manus-storage/asian-senior-mindfulness_5f8f7f27.jpg"
+                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663414221053/ZLpAaHwNavLybghZ.jpg"
                   alt="An older Asian woman practicing mindfulness meditation in a green park"
                 />
                 <div className="hero__image-wash" />
