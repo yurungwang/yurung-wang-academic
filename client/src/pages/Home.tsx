@@ -22,7 +22,7 @@ const researchProjects = [
   {
     period: "2026—2027",
     title:
-      "A Mixed-Methods Study on the Effects of an AI-Assisted Mindfulness Digital Intervention on Healthy Ageing in Community-Dwelling Older Adults",
+      "A Mixed-Methods Study on the Effects of an AI-Assisted Mindfulness Digital Intervention on Healthy Aging in Community-Dwelling Older Adults",
     body: "National Science and Technology Council (NSTC)",
     role: "Principal Investigator",
     status: "Underway",
@@ -83,7 +83,7 @@ const publications = [
     authors:
       "Wang, Y. R., Lin, F. M., Ye, L., Yu, L., Kang, J., Biddle, M., & Chen, C. M.",
     title:
-      "Exploring the Mediating Roles of Aging Perceptions and Physical Activity on Healthy Aging Perspectives Among Older Adults With Chronic Diseases in Taiwan and China: A Cross-Sectional Study.",
+      "Exploring the mediating roles of aging perceptions and physical activity on healthy aging perspectives among older adults with chronic diseases in Taiwan and China: A cross-sectional study.",
     journal: "Geriatrics & Gerontology International, 26(9), e70809.",
   },
   {
@@ -104,14 +104,14 @@ const publications = [
     year: "2025",
     authors: "Hsieh, P. L., Lu, Y. L., Wang, Y. R., & Chen, C. M.",
     title:
-      "Exploring the Factors Related to Home Care Nurse Knowledge of, Attitudes Toward, and Care Competence for Foot Care in the Elderly.",
+      "Exploring the factors related to home care nurse knowledge of, attitudes toward, and care competence for foot care in the elderly.",
     journal: "The Journal of Nursing, 72(5), 58–68. (Chinese)",
   },
   {
     year: "2025",
     authors: "Chang, C. C., & Wang, Y. R.*",
     title:
-      "Integrating Cultural Values and AI Technology in Nursing Education and Service Learning: Enhancing Long-Term Care at an Old Hospital.",
+      "Integrating cultural values and AI technology in nursing education and service learning: Enhancing long-term care at an old hospital.",
     journal: "Journal of Teaching Practice and Research on Higher Education, 9(1), 1–64. (Chinese)",
   },
   {
@@ -125,21 +125,21 @@ const publications = [
     year: "2023",
     authors: "Wang, Y. R., Lee, H. F., Hsieh, P. L., & Chen, C. M.",
     title:
-      "Development of the Healthy Aging Perspectives Questionnaire Among Older Adults with Chronic Disease in Taiwan.",
+      "Development of the Healthy Aging Perspectives Questionnaire among older adults with chronic disease in Taiwan.",
     journal: "Health & Social Care in the Community, 2023, 8238748.",
   },
   {
     year: "2023",
     authors: "Hsieh, P. L., Wang, Y. R., & Huang, T. C.",
     title:
-      "Exploring Key Factors Influencing Nursing Students’ Cognitive Load and Willingness to Serve Older Adults: Cross-sectional Descriptive Correlational Study.",
+      "Exploring key factors influencing nursing students’ cognitive load and willingness to serve older adults: Cross-sectional descriptive correlational study.",
     journal: "JMIR Serious Games, 11, e43203.",
   },
   {
     year: "2021",
     authors: "Wang, Y. R., Lee, H. F., & Chen, C. M.",
     title:
-      "Validating a Brief Aging Perception Questionnaire (B-APQ) for Older Persons with Chronic Disease in Taiwan.",
+      "Validating a Brief Aging Perception Questionnaire (B-APQ) for older persons with chronic disease in Taiwan.",
     journal: "Aging & Mental Health, 25(6), 1143–1150.",
     doi: "https://doi.org/10.1080/13607863.2020.1734914",
   },
@@ -147,20 +147,20 @@ const publications = [
     year: "2021",
     authors: "Yueh, F. J., Hsu, Y. T., Wang, Y. R., Ku, H. C., & Hsu, W. C.",
     title:
-      "Efficacy of Antibiotic-Loaded Bone Cement for the Risk of Deep Infections in Total Knee Arthroplasty.",
+      "Efficacy of antibiotic-loaded bone cement for the risk of deep infections in total knee arthroplasty.",
     journal: "Formosan Journal of Medicine, 25(5), 592–602. (Chinese)",
   },
   {
     year: "2018",
     authors: "Ku, H., Cho, C., Wang, Y., Chen, L., Yueh, F., Tian, Y., Tsai, Y., & Liao, W.",
     title:
-      "A Prospective Randomized Controlled Trial of Efficacy of Gum Chewing on Gastrointestinal Recovery after Laparoscopic Colorectal Surgery.",
+      "A prospective randomized controlled trial of efficacy of gum chewing on gastrointestinal recovery after laparoscopic colorectal surgery.",
     journal: "Journal of Society of Colon and Rectal Surgeons, 29(1), 1–7.",
   },
   {
     year: "2016",
     authors: "Lee, H., Kuo, C., Chien, T., & Wang, Y.",
-    title: "A Meta-Analysis of the Effects of Coping Strategies on Reducing Nurse Burnout.",
+    title: "A meta-analysis of the effects of coping strategies on reducing nurse burnout.",
     journal: "Applied Nursing Research, 31, 100–110.",
   },
 ];
@@ -169,35 +169,35 @@ const conferences = [
   {
     year: "2026",
     title:
-      "Culturally Adapted, Digitally Supported Mindfulness for Healthy Aging: An 8-Week Community Pilot Study in Taiwan.",
+      "Culturally adapted, digitally supported mindfulness for healthy aging: An 8-week community pilot study in Taiwan.",
     event: "23rd IAGG World Congress of Gerontology and Geriatrics",
     place: "Amsterdam, Netherlands",
   },
   {
     year: "2025",
     title:
-      "Developing a Diverse Mindfulness Course for the Elderly in the Community — A Modified Delphi Study.",
+      "Developing a diverse mindfulness course for the elderly in the community — A modified Delphi study.",
     event: "36th International Nursing Research Congress 2025",
     place: "",
   },
   {
     year: "2024",
     title:
-      "Using Virtual Reality for Experiential Learning to Improve Learning Effectiveness of Symptom Management Course for COVID-19 Patient Care.",
+      "Using virtual reality for experiential learning to improve learning effectiveness of symptom management course for COVID-19 patient care.",
     event: "AMEE 2024",
     place: "",
   },
   {
     year: "2023",
     title:
-      "Comparisons of the Healthy Aging Perspectives among Older Persons with Chronic Disease on Both Sides of the Taiwan Straits.",
+      "Comparisons of the healthy aging perspectives among older persons with chronic disease on both sides of the Taiwan Straits.",
     event: "ICN Congress 2023",
     place: "",
   },
   {
     year: "2022",
     title:
-      "Effects of Physical Activity and Perceptions of Aging on the Perspective of Healthy Aging among Frail Older Persons with Chronic Disease in the Community.",
+      "Effects of physical activity and perceptions of aging on the perspective of healthy aging among frail older persons with chronic disease in the community.",
     event:
       "7th International Nursing Research Conference of World Academy of Nursing Science (7th WANS)",
     place: "Taipei, Taiwan",
@@ -205,35 +205,35 @@ const conferences = [
   {
     year: "2019",
     title:
-      "Comparisons of Perceptions of Aging among Older Persons with Chronic Diseases Living on Both Sides of the Taiwan Strait.",
+      "Comparisons of perceptions of aging among older persons with chronic diseases living on both sides of the Taiwan Strait.",
     event: "11th Asia/Oceania Congress of Gerontology and Geriatrics (IAGG 2019)",
     place: "Taipei, Taiwan",
   },
   {
     year: "2018",
     title:
-      "Development of Brief Aging Perception Questionnaire (B-APQ) among Older Persons with Chronic Disease.",
+      "Development of Brief Aging Perception Questionnaire (B-APQ) among older persons with chronic disease.",
     event: "Sigma Theta Tau International’s 29th International Nursing Research Congress",
     place: "Melbourne, Australia",
   },
   {
     year: "2017",
     title:
-      "Validation of the Perceptions of Aging and Healthy Aging for Older Persons with Chronic Disease in Taiwan.",
+      "Validation of the perceptions of aging and healthy aging for older persons with chronic disease in Taiwan.",
     event: "IAGG 2017",
     place: "San Francisco, USA",
   },
   {
     year: "2016",
     title:
-      "Effectiveness of Multiple Exercise of Gait Function on Older People Living in the Community among Young-Old and Old-Old Elderly.",
+      "Effectiveness of multiple exercise of gait function on older people living in the community among young-old and old-old elderly.",
     event: "2016 Cochrane Colloquium",
     place: "Seoul, Korea",
   },
   {
     year: "2016",
     title:
-      "Meta-analysis of Exercise for Gait and Balance in Older People Living in the Community.",
+      "Meta-analysis of exercise for gait and balance in older people living in the community.",
     event: "Sixth Pan-Pacific Nursing Conference and First Colloquium on Chronic Illness Care",
     place: "Hong Kong",
   },
@@ -309,8 +309,8 @@ const focusAreas = [
   {
     number: "01",
     icon: HeartPulse,
-    title: "Healthy ageing",
-    text: "How perceptions of ageing, physical activity, frailty, and chronic illness shape later-life wellbeing.",
+    title: "Healthy aging",
+    text: "How perceptions of aging, physical activity, frailty, and chronic illness shape later-life wellbeing.",
   },
   {
     number: "02",
@@ -424,7 +424,7 @@ function Home() {
               </h1>
               <p className="hero__intro">
                 I am <strong>Yu-Rung Wang</strong>, a nurse scientist and educator advancing
-                healthy ageing through mindfulness, physical activity, digital innovation,
+                healthy aging through mindfulness, physical activity, digital innovation,
                 and compassionate community care.
               </p>
               <div className="hero__actions">
@@ -495,7 +495,7 @@ function Home() {
               </p>
               <p>
                 At the Department of Nursing, College of Medicine, National Sun Yat-sen
-                University, I investigate practical pathways to healthy ageing—combining
+                University, I investigate practical pathways to healthy aging—combining
                 behavioural science with AI-assisted learning, immersive technology, and
                 culturally responsive care.
               </p>
@@ -530,7 +530,7 @@ function Home() {
           <SectionHeading
             eyebrow="Funded research / 03"
             title="Research projects"
-            text="Seven recent projects spanning healthy ageing, digital mindfulness, generative AI, immersive learning, and nursing workforce wellbeing."
+            text="Seven recent projects spanning healthy aging, digital mindfulness, generative AI, immersive learning, and nursing workforce wellbeing."
           />
 
           <div className="project-list">
@@ -689,7 +689,7 @@ function Home() {
             <span className="eyebrow eyebrow--light">Collaboration / 06</span>
             <div className="contact-section__grid">
               <div>
-                <h2>Let’s advance healthy ageing, together.</h2>
+                <h2>Let’s advance healthy aging, together.</h2>
                 <p>
                   I welcome thoughtful conversations about research, teaching, community
                   partnerships, and international collaboration in nursing and gerontology.
@@ -716,7 +716,7 @@ function Home() {
           <span className="wordmark__monogram wordmark__monogram--footer">YW</span>
           <p>
             <strong>Yu-Rung Wang, PhD, RN</strong>
-            Nursing research for healthier ageing.
+            Nursing research for healthier aging.
           </p>
         </div>
         <p className="footer__note">Academic profile · Curriculum vitae updated 2026</p>

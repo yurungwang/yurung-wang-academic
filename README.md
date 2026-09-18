@@ -2,7 +2,7 @@
 
 A responsive English academic portfolio for **Yu-Rung Wang, PhD, RN**, Assistant Professor in the Department of Nursing, College of Medicine at National Sun Yat-sen University.
 
-The website presents research interests in healthy ageing, mindfulness, digital health, and nursing education, together with funded projects, peer-reviewed publications, conference presentations, education, leadership, and professional experience.
+The website presents research interests in healthy aging, mindfulness, digital health, and nursing education, together with funded projects, peer-reviewed publications, conference presentations, education, leadership, and professional experience.
 
 ## Live website
 
