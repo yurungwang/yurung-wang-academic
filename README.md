@@ -6,8 +6,8 @@ The website presents research interests in healthy ageing, mindfulness, digital 
 
 ## Live website
 
-- **GitHub Pages:** https://yurungwang.github.io/yurung-wang-academic/
-- **Manus deployment:** https://yurungwang-47ywiar4.manus.space
+- **Public website:** https://yurungwang-47ywiar4.manus.space
+- **Public source repository:** https://github.com/yurungwang/yurung-wang-academic
 
 ## Included content
 
@@ -33,4 +33,4 @@ pnpm build
 
 ## Deployment
 
-Push changes to the `main` branch. The workflow in `.github/workflows/deploy-pages.yml` builds the static website and publishes the output to GitHub Pages.
+The workflow in `.github/workflows/deploy-pages.yml` is ready to build and publish the site whenever the `main` branch changes. To activate GitHub Pages for the first time, open **Settings → Pages → Build and deployment → Source**, select **GitHub Actions**, and rerun the workflow. The resulting URL will be `https://yurungwang.github.io/yurung-wang-academic/`.
