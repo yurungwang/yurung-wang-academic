@@ -88,6 +88,13 @@ const publications = [
   },
   {
     year: "2026",
+    authors: "Lee, Y. C., Chang, C. H., Wang, Y. R., Tsai, Y. H., & Tai, H. C.",
+    title:
+      "Preparing nursing students for multilingual caregiving contexts: A quasi-experimental evaluation of a problem-based English for nursing purposes intervention.",
+    journal: "Nurse Education Today, 107361.",
+  },
+  {
+    year: "2026",
     authors: "Wang, Y. R., Hsieh, P. L., Chang, C. C., Hsiao, C. C., & Hu, M. L.",
     title:
       "Using a digital-based mindfulness curriculum to enhance healthy aging outcomes in community-dwelling older adults in Taiwan: mixed methods feasibility study.",
@@ -462,7 +469,7 @@ function Home() {
               <MapPin size={15} /> Kaohsiung, Taiwan
             </p>
             <div className="hero__metrics" aria-label="Academic profile statistics">
-              <span><strong>11</strong> Publications</span>
+              <span><strong>12</strong> Publications</span>
               <span><strong>10</strong> Conferences</span>
               <span><strong>25+</strong> Years in nursing</span>
             </div>
@@ -564,7 +571,7 @@ function Home() {
                 className={activeTab === "publications" ? "active" : ""}
                 onClick={() => setActiveTab("publications")}
               >
-                Publications <span>11</span>
+                Publications <span>12</span>
               </button>
               <button
                 type="button"
