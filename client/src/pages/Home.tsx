@@ -440,8 +440,8 @@ function Home() {
             <div className="hero__visual">
               <div className="hero__image-frame">
                 <img
-                  src="/manus-storage/healthy-ageing-community_31ece411.jpg"
-                  alt="Older adults taking part in an outdoor community movement class"
+                  src="/manus-storage/senior-mindfulness-meditation_6ec3ec0e.jpg"
+                  alt="An older woman practicing mindfulness meditation outdoors"
                 />
                 <div className="hero__image-wash" />
               </div>
