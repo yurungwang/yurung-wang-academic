@@ -440,8 +440,8 @@ function Home() {
             <div className="hero__visual">
               <div className="hero__image-frame">
                 <img
-                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663414221053/ZLpAaHwNavLybghZ.jpg"
-                  alt="An older Asian woman practicing mindfulness meditation in a green park"
+                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663414221053/OrZfqrxYkOLRTdXE.webp"
+                  alt="Yu-Rung Wang standing beside a vibrant flower display in a sunlit historic square"
                 />
                 <div className="hero__image-wash" />
               </div>
